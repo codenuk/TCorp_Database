@@ -218,7 +218,6 @@ insert into line_item (bill_of_quantity_id, products_id, stock_qty, po_number, d
 insert into line_item (bill_of_quantity_id, products_id, stock_qty, po_number, discount, status_orders_id) values (1, 3, 21, "PO123098124", 0.8, 1);
 insert into line_item (bill_of_quantity_id, products_id, stock_qty, po_number, discount, status_orders_id) values (1, 4,  2, "PO123098125", 0.8, 1);
 insert into line_item (bill_of_quantity_id, products_id, stock_qty, po_number, discount, status_orders_id) values (1, 5,  2, "PO123098126", 0.8, 1);
-insert into line_item (bill_of_quantity_id, products_id, stock_qty, po_number, discount, status_orders_id) values (1, 6,  2, "PO123098127", 0.8, 1);
 
 --  BOQ ID: 2
 insert into line_item (bill_of_quantity_id, products_id, stock_qty, po_number, discount, status_orders_id) values (2, 1,  2, "PO123098121", 0.8, 1);
